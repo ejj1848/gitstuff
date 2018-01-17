@@ -4,6 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //notes: 	Erik Dahlstrom 		COMMENT COMMENT COMMENT
+//notes:	Alex Salfai	blah
+
 
 @SpringBootApplication
 public class GitstuffApplication {
